@@ -35,3 +35,9 @@ img {
   gap: 1em;
   grid-template-rows: 70px 70px 70px;
 }
+
+.resetButton{
+  background-color: #61dafb;
+  height: 3vh;
+  width: 70px;
+}
